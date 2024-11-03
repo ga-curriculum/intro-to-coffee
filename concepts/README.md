@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">[tktk Headline]</span>
   <span class="subhead">Concepts</span>
 </h1>
 
