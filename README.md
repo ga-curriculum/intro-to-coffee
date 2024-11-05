@@ -3,10 +3,6 @@
   <span class="headline">Intro to Coffee</span>
 </h1>
 
-<blockquote class="warning">
-  🚨 Do not copy the above command. It will not work. Your GitHub username will replace <code>&lt;github-username&gt;</code> (including the <code><</code> and <code>></code>) in the URL above.
-</blockquote>
-
 ## About
 
 This module introduces the concept of coffee and some preparation techniques. Specifically brewing using gravity is covered, as well as the undisputed best way to brew coffee. Coffee is also linked to coding concepts such as the `forEach()` array iterator method in JavaScript.
