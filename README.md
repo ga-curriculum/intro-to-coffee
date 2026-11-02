@@ -30,7 +30,7 @@ This module introduces the concept of coffee and some preparation techniques. Sp
 
 ### Starter code
 
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/coffee-for-coders-starter)
+🟢 [Starter code](https://github.com/ga-curriculum/intro-to-coffee-starter)
 
 ### Solution code
 
